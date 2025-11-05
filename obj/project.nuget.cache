@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "Jk7CzjPGGHM=",
+  "success": true,
+  "projectFilePath": "E:\\SP\\2025\\DANPER\\APP\\Danper-RegisterEmployeePhoto\\RegisterEmployeePhoto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Meliton\\.nuget\\packages\\amazon.lambda.apigatewayevents\\2.7.1\\amazon.lambda.apigatewayevents.2.7.1.nupkg.sha512",
+    "C:\\Users\\Meliton\\.nuget\\packages\\amazon.lambda.core\\2.7.1\\amazon.lambda.core.2.7.1.nupkg.sha512",
+    "C:\\Users\\Meliton\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.4.4\\amazon.lambda.serialization.systemtextjson.2.4.4.nupkg.sha512",
+    "C:\\Users\\Meliton\\.nuget\\packages\\awssdk.core\\4.0.1.3\\awssdk.core.4.0.1.3.nupkg.sha512",
+    "C:\\Users\\Meliton\\.nuget\\packages\\awssdk.dynamodbv2\\4.0.9.3\\awssdk.dynamodbv2.4.0.9.3.nupkg.sha512",
+    "C:\\Users\\Meliton\\.nuget\\packages\\awssdk.s3\\4.0.9.1\\awssdk.s3.4.0.9.1.nupkg.sha512",
+    "C:\\Users\\Meliton\\.nuget\\packages\\httpmultipartparser\\9.1.0\\httpmultipartparser.9.1.0.nupkg.sha512",
+    "C:\\Users\\Meliton\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Meliton\\.nuget\\packages\\microsoft.io.recyclablememorystream\\3.0.1\\microsoft.io.recyclablememorystream.3.0.1.nupkg.sha512",
+    "C:\\Users\\Meliton\\.nuget\\packages\\system.buffers\\4.6.1\\system.buffers.4.6.1.nupkg.sha512",
+    "C:\\Users\\Meliton\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\8.0.17\\microsoft.netcore.app.runtime.linux-x64.8.0.17.nupkg.sha512",
+    "C:\\Users\\Meliton\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\8.0.17\\microsoft.aspnetcore.app.runtime.linux-x64.8.0.17.nupkg.sha512",
+    "C:\\Users\\Meliton\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\8.0.17\\microsoft.netcore.app.crossgen2.win-x64.8.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

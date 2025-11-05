@@ -1,0 +1,12 @@
+E:\SP\2025\DANPER\APP\Danper-RegisterEmployeePhoto\bin\Release\net8.0\publish\RegisterEmployeePhoto.deps.json
+E:\SP\2025\DANPER\APP\Danper-RegisterEmployeePhoto\bin\Release\net8.0\publish\RegisterEmployeePhoto.runtimeconfig.json
+E:\SP\2025\DANPER\APP\Danper-RegisterEmployeePhoto\bin\Release\net8.0\publish\RegisterEmployeePhoto.pdb
+E:\SP\2025\DANPER\APP\Danper-RegisterEmployeePhoto\bin\Release\net8.0\publish\Amazon.Lambda.APIGatewayEvents.dll
+E:\SP\2025\DANPER\APP\Danper-RegisterEmployeePhoto\bin\Release\net8.0\publish\Amazon.Lambda.Core.dll
+E:\SP\2025\DANPER\APP\Danper-RegisterEmployeePhoto\bin\Release\net8.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+E:\SP\2025\DANPER\APP\Danper-RegisterEmployeePhoto\bin\Release\net8.0\publish\AWSSDK.Core.dll
+E:\SP\2025\DANPER\APP\Danper-RegisterEmployeePhoto\bin\Release\net8.0\publish\AWSSDK.DynamoDBv2.dll
+E:\SP\2025\DANPER\APP\Danper-RegisterEmployeePhoto\bin\Release\net8.0\publish\AWSSDK.S3.dll
+E:\SP\2025\DANPER\APP\Danper-RegisterEmployeePhoto\bin\Release\net8.0\publish\HttpMultipartParser.dll
+E:\SP\2025\DANPER\APP\Danper-RegisterEmployeePhoto\bin\Release\net8.0\publish\Microsoft.IO.RecyclableMemoryStream.dll
+E:\SP\2025\DANPER\APP\Danper-RegisterEmployeePhoto\bin\Release\net8.0\publish\RegisterEmployeePhoto.dll
