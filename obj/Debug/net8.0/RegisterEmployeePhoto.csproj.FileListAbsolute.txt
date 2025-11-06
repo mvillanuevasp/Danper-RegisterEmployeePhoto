@@ -21,3 +21,4 @@ E:\SP\2025\DANPER\APP\Danper-RegisterEmployeePhoto\obj\Debug\net8.0\refint\Regis
 E:\SP\2025\DANPER\APP\Danper-RegisterEmployeePhoto\obj\Debug\net8.0\RegisterEmployeePhoto.pdb
 E:\SP\2025\DANPER\APP\Danper-RegisterEmployeePhoto\obj\Debug\net8.0\RegisterEmployeePhoto.genruntimeconfig.cache
 E:\SP\2025\DANPER\APP\Danper-RegisterEmployeePhoto\obj\Debug\net8.0\ref\RegisterEmployeePhoto.dll
+E:\SP\2025\DANPER\APP\Danper-RegisterEmployeePhoto\obj\Debug\net8.0\RegisterEmployeePhoto.sourcelink.json

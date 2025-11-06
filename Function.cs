@@ -55,7 +55,7 @@ namespace RegisterEmployeePhoto
                 var nombres = parser.GetParameterValue("nombres");
                 var file = parser.Files?.FirstOrDefault();
 
-                if (string.IsNullOrEmpty(contentType))
+                if (string.IsNullOrEmpty(dni))
                     return ErrorResponse("El dni es requerido");
 
                 if (file == null)

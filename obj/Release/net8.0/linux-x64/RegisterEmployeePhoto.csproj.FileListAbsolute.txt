@@ -21,3 +21,4 @@ E:\SP\2025\DANPER\APP\Danper-RegisterEmployeePhoto\obj\Release\net8.0\linux-x64\
 E:\SP\2025\DANPER\APP\Danper-RegisterEmployeePhoto\obj\Release\net8.0\linux-x64\RegisterEmployeePhoto.pdb
 E:\SP\2025\DANPER\APP\Danper-RegisterEmployeePhoto\obj\Release\net8.0\linux-x64\RegisterEmployeePhoto.genruntimeconfig.cache
 E:\SP\2025\DANPER\APP\Danper-RegisterEmployeePhoto\obj\Release\net8.0\linux-x64\ref\RegisterEmployeePhoto.dll
+E:\SP\2025\DANPER\APP\Danper-RegisterEmployeePhoto\obj\Release\net8.0\linux-x64\RegisterEmployeePhoto.sourcelink.json
