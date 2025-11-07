@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Jk7CzjPGGHM=",
+  "dgSpecHash": "gOZQBpRuVDs=",
   "success": true,
   "projectFilePath": "E:\\SP\\2025\\DANPER\\APP\\Danper-RegisterEmployeePhoto\\RegisterEmployeePhoto.csproj",
   "expectedPackageFiles": [
@@ -14,8 +14,6 @@
     "C:\\Users\\Meliton\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Meliton\\.nuget\\packages\\microsoft.io.recyclablememorystream\\3.0.1\\microsoft.io.recyclablememorystream.3.0.1.nupkg.sha512",
     "C:\\Users\\Meliton\\.nuget\\packages\\system.buffers\\4.6.1\\system.buffers.4.6.1.nupkg.sha512",
-    "C:\\Users\\Meliton\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\8.0.17\\microsoft.netcore.app.runtime.linux-x64.8.0.17.nupkg.sha512",
-    "C:\\Users\\Meliton\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\8.0.17\\microsoft.aspnetcore.app.runtime.linux-x64.8.0.17.nupkg.sha512",
     "C:\\Users\\Meliton\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\8.0.17\\microsoft.netcore.app.crossgen2.win-x64.8.0.17.nupkg.sha512"
   ],
   "logs": []
